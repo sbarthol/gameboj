@@ -1,5 +1,4 @@
-# GameBoj
+# Gameboj
 
-Gameboy emulator developed from scratch in Java, simulating both software and hardware
-
-(co-developed with Sacha Bartholmé)
+Gameboj is a complete Nintendo Game Boy of 1990 emulator written from scratch in Java.
+Any game cartridge can be downloaded as a .gb file and played on the emulator.
