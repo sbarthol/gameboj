@@ -6,4 +6,4 @@ original Sharp LR35902 processor is emulated on a very low level. Bus controller
 Direct Memory Accesses (DMA), screen controller etc... are implemented according to the
 original Nintendo specs.
 
-![super mario land](screenshot.png "Super Mario Land")		![sample](gb.png "Sample")
+![super mario land](screenshot.png "Super Mario Land") &nbsp;&nbsp; ![sample](gb.png "Sample")
