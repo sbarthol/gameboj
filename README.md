@@ -12,6 +12,7 @@ original Nintendo specs.
 * Arithmetic logic unit (ALU) of the CPU
 * Registers and "high RAM" of the CPU
 * Decoding of arithmetic, logic and control instructions
+* Screen controller
 * Timer and keyboard interrupts
 * Booting from a cartridge
 
