@@ -8,7 +8,7 @@ Direct Memory Accesses (DMA), screen controller etc... are implemented according
 original Nintendo specs. 
 
 Moreover, I added special functionality that lets the user fiddle 
-with the play speed, analyse the video memory (tiles, sprites, background window) and capture 
+with the play speed, analyse the video memory (tiles, sprites, background, window) and capture 
 a screenshot.
 
 ## Emulated parts
@@ -29,3 +29,5 @@ a screenshot.
 ![mario](mario.gif "Mario")
 ### The tiles in Super Mario Land
 ![tiles](tiles.png "Tiles")
+### The background in Super Mario Land
+![background](background.png "Background")

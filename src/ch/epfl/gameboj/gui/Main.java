@@ -38,7 +38,7 @@ public final class Main extends Application {
     private float speed = 1f;
 
     public static void main(String[] args) {
-        args = new String[] { "Tetris (JUE) (V1.1) [!].gb" }; // ENLEVER
+        args = new String[] { "Super Mario Land (JUE) (V1.1) [!].gb" }; // ENLEVER
         Application.launch(args);
 
     }
