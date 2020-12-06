@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 
 public final class Main extends Application {
 
-    private static final float SCALE = 2f;
+    private static final float SCALE = 3f;
 
     private final Map<String, Joypad.Key> textMap = Map.of("a", Joypad.Key.A,
             "b", Joypad.Key.B, "s", Joypad.Key.START, " ", Joypad.Key.SELECT);
@@ -38,7 +38,7 @@ public final class Main extends Application {
     private float speed = 1f;
 
     public static void main(String[] args) {
-        args = new String[] { "Super Mario Land (JUE) (V1.1) [!].gb" }; // ENLEVER
+        //args = new String[] { "Super Mario Land (JUE) (V1.1) [!].gb" }; // ENLEVER
         Application.launch(args);
 
     }
